@@ -2,5 +2,6 @@
 "name": "MyADAPool",
 "description": "To support Cardano network.",
 "ticker": "VNADA",
-"homepage": "https://myadapool.club"
+"homepage": "https://myadapool.club",
+ "extended":"https://raw.githubusercontent.com/ttulong/myadapool.club/main/meta.json"
 }
