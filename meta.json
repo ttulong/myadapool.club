@@ -3,7 +3,7 @@
     "info": {
         "url_png_icon_64x64": "http(s) url to pool icon; not animated; max 40kb",
         "url_png_logo": "http(s) url to pool logo; not animated; max 50kb",
-        "location": "London, England",
+        "location": "Texas, USA",
         "social": {
             "twitter_handle": "AdapoolsO",
             "telegram_handle": "adapools_ops",
@@ -35,12 +35,12 @@
             "0": {
                 "name": "relay 1 US",
                 "type": "relay",
-                "key": "example_get_own_on_adapools.org/connect"
+                "key": "https://adapools.org/connect/257234de46654fc71f8c97f05b2d9996"
             },
             "1": {
                 "name": "relay 2 US",
                 "type": "relay",
-                "key": "example_get_own_on_adapools.org/connect"
+                "key": "https://adapools.org/connect/bbdcc6a277299d919be06e036730f3aa"
             },
             "2": {
                 "name": "block producer US",
