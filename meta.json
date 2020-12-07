@@ -11,13 +11,12 @@
             "youtube_handle": "",
             "twitch_handle": "",
             "discord_handle": "",
-            "github_handle": ""
+            "github_handle": "ttulong"
         },       
         "about": {
             "me": "Tulong Nguyen",
             "server": "Dedicated Servers"
-        },
-        "rss": "https"
+        }
     },
     "my-pool-ids": {
         "0": "01db6bb95c32c2002a4ad315cff5512005cd51ff8cc4bd7c43d2dd1b",
